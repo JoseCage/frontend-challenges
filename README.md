@@ -2,7 +2,8 @@
 Sharing my personal experiments while learning frontend
 
 
-You can find me on Twitter as [@cage.jose](https://twitter.com/cage.jose)
+You can find me on Twitter as [@cagejose](https://twitter.com/cagejose)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/cagejose.svg?label=Follow%20me&style=social) and on [Telegram](https://t.me/josecage)
 
 You can support me by starring this repo
